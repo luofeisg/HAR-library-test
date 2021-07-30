@@ -21,6 +21,15 @@ Welcome to HAR-library's documentation!
 .. toctree::
    usage
 
+.. toctree::
+   doc1
+
+.. toctree::
+   doc2
+
+.. toctree::
+   doc3
+
 
 
 Indices and tables

@@ -1,11 +1,7 @@
-Usage
+doc2
 =====
 
-Installation
+2
 ------------
 
-To use HAR-library, first install it using pip:
-
-.. code-block:: console
-
-   (.venv) $ pip install HAR-library
+2
